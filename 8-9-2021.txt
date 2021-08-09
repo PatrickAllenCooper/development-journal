@@ -1,0 +1,7 @@
+Why are we so enthralled by models trained on big data?
+
+At the moment, massive transformer models are in style. They dominate the news cycle and suck the oxygen out of the room. Why shouldn't they? They're incredible.
+
+I claim there is inherent laziness to this approach to deep learning with massive numbers of parameters. It creates compelling demos, demonstrating capabilities 
+including elementary mathematics, etc. Are such models capable of either yielding novel insights or else instructing themselves to produce novel outputs. The
+answer is no, extensive collections of superficial understanding are not incredible, and it's not particularly useful either.
