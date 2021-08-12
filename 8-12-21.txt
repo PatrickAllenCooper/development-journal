@@ -1,0 +1,2 @@
+Wouldn't it be quite grand to imagine a neural network so rich in its dynamism that all physical data could be delivered and in an entirely unsupervised way it could discover the simplest
+possible structure which could be expected to generate all of it. A sort of maximally reductive mechanism.
