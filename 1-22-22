@@ -1,0 +1,4 @@
+There should be some work dedicated to the pursuit of time series generation using diffusion models. I have found a small set of publications, but I am
+mostly interested in the use of these models for generative strategy creation. For example, playing the stock market by treating prior data as a time series, etc.
+
+-Patrick
